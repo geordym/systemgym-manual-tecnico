@@ -1,0 +1,22 @@
+site_name: Systemgym-Manual-Administrativo
+theme:
+  name: material
+  palette:
+    primary: 'blue'
+    accent: 'light blue'
+nav:
+  - Introduccion: introduccion.md
+  - Prerequisitos: prerequisitos.md
+  - Instalacion: instalacion.md
+  - Configuracion: configuracion.md
+  - Arquitectura del sistema: arquitectura.md
+  - Desarrollo y mantenimiento: desarrollo_mantenimiento.md
+
+  - Historias de usuario: historiasusuario.md
+  - Diagrama Entidad Relacion: diagrama_er.md
+  - Diagrama de clase: diagrama_clase.md
+  - Despliegue: despliegue.md
+  - Glosario: glosario.md
+
+
+     
