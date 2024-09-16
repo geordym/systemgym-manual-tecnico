@@ -17,12 +17,12 @@
 
 | **Item**                          | **Descripción**                                         |
 |-----------------------------------|---------------------------------------------------------|
-| **ID**                            | HU-3bcd4561fgh4                                         |
+| **ID**                            | HU-1                                        |
 | **Rol**                           | Administrador                                           |
 | **Característica / Funcionalidad** | Crear membresía                                         |
 | **Razón/Resultado**               | Permite crear o editar diferentes tipos de membresías   |
 
-## HU-3bcd4561fgh4 - Criterios de Aceptación
+## HU-1 - Criterios de Aceptación
 
 | **Escenario**         | **Criterio de Aceptación**   | **Contexto**      | **Evento**         | **Resultado Esperado**                              |
 |-----------------------|------------------------------|-------------------|--------------------|----------------------------------------------------|
@@ -50,12 +50,12 @@
 
 | **Item**                          | **Descripción**                                         |
 |-----------------------------------|---------------------------------------------------------|
-| **ID**                            | HU-ins-cliente                                         |
+| **ID**                            | HU-2                                       |
 | **Rol**                           | Administrador                                           |
 | **Característica / Funcionalidad** | Inscribir Cliente                                         |
 | **Razón/Resultado**               | Permite inscribir clientes al sistema y guardarlos en BD   |
 
-## HU-ins-cliente  - Criterios de Aceptación
+## HU-2  - Criterios de Aceptación
 
 | **Escenario**         | **Criterio de Aceptación**   | **Contexto**      | **Evento**         | **Resultado Esperado**                              |
 |-----------------------|------------------------------|-------------------|--------------------|----------------------------------------------------|
@@ -76,12 +76,12 @@
 
 | **Item**                          | **Descripción**                                         |
 |-----------------------------------|---------------------------------------------------------|
-| **ID**                            | HU-3bcd4561fgh4                                         |
+| **ID**                            | HU-3                                      |
 | **Rol**                           | Administrador                                           |
 | **Característica / Funcionalidad** | Suscribir cliente a una membresia                                       |
 | **Razón/Resultado**               | Permite suscribir un cliente a una membresia para que pueda acceder al gimnasio y a distintas partes con esa membresia y que se le facture por el periodo de dicha membresia |
 
-## HU-3bcd4561fgh4 - Criterios de Aceptación
+## HU-3 - Criterios de Aceptación
 
 | **Escenario**         | **Criterio de Aceptación**   | **Contexto**      | **Evento**         | **Resultado Esperado**                              |
 |-----------------------|------------------------------|-------------------|--------------------|----------------------------------------------------|
@@ -97,12 +97,12 @@
 
 | **Item**                          | **Descripción**                                         |
 |-----------------------------------|---------------------------------------------------------|
-| **ID**                            | HU-3bcd4561fgh4                                         |
+| **ID**                            | HU-4                                       |
 | **Rol**                           | Administrador                                           |
 | **Característica / Funcionalidad** | Realizar un pago a una factura                                       |
 | **Razón/Resultado**               | Permite realizar pagos a las facturas pendientes de los clientes |
 
-## HU-3bcd4561fgh4 - Criterios de Aceptación
+## HU-4- Criterios de Aceptación
 
 | **Escenario**         | **Criterio de Aceptación**   | **Contexto**      | **Evento**         | **Resultado Esperado**                              |
 |-----------------------|------------------------------|-------------------|--------------------|----------------------------------------------------|
@@ -125,12 +125,12 @@
 
 | **Item**                          | **Descripción**                                         |
 |-----------------------------------|---------------------------------------------------------|
-| **ID**                            | HU-3bcd4561fgh4                                         |
+| **ID**                            | HU-5                                        |
 | **Rol**                           | Administrador                                           |
 | **Característica / Funcionalidad** | Registrar los egresos del gimnasio    y eliminarlos                                   |
 | **Razón/Resultado**               | Permite registrar los egresos de dinero del gimnasio, los gastos y tambien eliminarlos en caso de error |
 
-## HU-3bcd4561fgh4 - Criterios de Aceptación
+## HU-5 - Criterios de Aceptación
 
 | **Escenario**         | **Criterio de Aceptación**   | **Contexto**      | **Evento**         | **Resultado Esperado**                              |
 |-----------------------|------------------------------|-------------------|--------------------|----------------------------------------------------|
@@ -155,12 +155,12 @@
 
 | **Item**                          | **Descripción**                                         |
 |-----------------------------------|---------------------------------------------------------|
-| **ID**                            | HU-3bcd4561fgh4                                         |
+| **ID**                            | HU-6                                         |
 | **Rol**                           | Administrador                                           |
 | **Característica / Funcionalidad** | Modificar las tarifas de los costos del sistema                     |
 | **Razón/Resultado**               | Permite modificar los precios de las tarifas de las distintas tarifas del sistema |
 
-## HU-3bcd4561fgh4 - Criterios de Aceptación
+## HU-6 - Criterios de Aceptación
 
 | **Escenario**         | **Criterio de Aceptación**   | **Contexto**      | **Evento**         | **Resultado Esperado**                              |
 |-----------------------|------------------------------|-------------------|--------------------|----------------------------------------------------|
@@ -179,12 +179,12 @@
 
 | **Item**                          | **Descripción**                                         |
 |-----------------------------------|---------------------------------------------------------|
-| **ID**                            | HU-3bcd4561fgh4                                         |
+| **ID**                            | HU-7                                       |
 | **Rol**                           | Administrador                                           |
 | **Característica / Funcionalidad** | Visualizar egresos y ingresos de una determinada fecha                     |
 | **Razón/Resultado**               | Se deben poder visualizar en una tabla todos los ingresos y egresos de un determinado dia|
 
-## HU-3bcd4561fgh4 - Criterios de Aceptación
+## HU-7- Criterios de Aceptación
 
 | **Escenario**         | **Criterio de Aceptación**   | **Contexto**      | **Evento**         | **Resultado Esperado**                              |
 |-----------------------|------------------------------|-------------------|--------------------|----------------------------------------------------|
